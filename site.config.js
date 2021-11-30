@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: 'hzlzh',
   github: 'hzlzh',
-  linkedin: 'hzlzh',
+  // linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -37,7 +37,7 @@ module.exports = {
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
   // variables specified in .env.example
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
